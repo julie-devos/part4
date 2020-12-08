@@ -15,6 +15,5 @@ function phrase(){?>
 phrase();
 ?>
 
-
 </body>
 </html>
